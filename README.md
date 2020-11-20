@@ -9,7 +9,9 @@ Flight app project it has been created by using of:
 
 ## Project pics
 ![alt screen](https://github.com/iwanoisch/Flight/blob/main/1.png)
+##
 ![alt screen](https://github.com/iwanoisch/Flight/blob/main/2.png)
+##
 ![alt screen](https://github.com/iwanoisch/Flight/blob/main/3.png)
 
 ## Available Scripts
